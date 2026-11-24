@@ -32,10 +32,8 @@ jobs:
       - name: Mirror reviewed browser assets from the Netlify PR10 preview
         run: python scripts/mirror_netlify.py
 
-      - name: Enable and configure GitHub Pages
+      - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - name: Upload reviewed static site
         uses: actions/upload-pages-artifact@v3
