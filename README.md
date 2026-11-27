@@ -2,6 +2,14 @@
 
 This repository publishes a **browser-only, static copy of the approved MVP website** using GitHub Pages. The original React/Vite application, KNIME workflow, report documents and development history remain in the **private** repository `Mistu98/ross-ai-assessment-mvp`.
 
+## MVP project status - updated 27 November 2026
+
+**Status: Finalized for capstone demonstration and handover.** The client has reviewed the information presented in the MVP and expressed satisfaction with it. This repository publishes the static demonstration; the editable application source and detailed technical documentation remain in the private source repository.
+
+This completion status does **not** imply production readiness, deployment across Ross engineering teams, independently validated rubric results, a shared assessment database, live KNIME updates, or approval to expose confidential evidence. Activity assessments remain human-led, and any future deployment or integration requires separate review.
+
+The date above is the **GitHub status update date**; research content and implementation identifiers retain their separate source provenance.
+
 ## Site
 
 Once deployment succeeds, the expected URL is:
